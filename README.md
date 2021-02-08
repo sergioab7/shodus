@@ -7,5 +7,26 @@
 </p>
 
 
-<h1>shodus</h1>
+<h1>Shodus</h1>
 
+Script para la automatización de búsquedas en shodan. Uso fácil e intuitivo.
+
+
+
+## Requisitos de instalación
+
+Instalar las siguientes librerías:
+<ul>
+    <li>ArgumentParser</li> 
+    ```
+    pip3 install argparse
+    ```
+    <li>colorama</li> 
+    ```
+    pip3 install colorama
+    ```
+    <li>BeautifulTable</li> 
+    ```
+    pip3 install beautifultable
+    ```
+</ul>
