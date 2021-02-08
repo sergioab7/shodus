@@ -16,17 +16,16 @@ Script para la automatización de búsquedas en shodan. Uso fácil e intuitivo.
 ## Requisitos de instalación
 
 Instalar las siguientes librerías:
-<ul>
-    <li>ArgumentParser</li> 
+
+<h3>Argparse</h3>
     ```
     pip3 install argparse
     ```
-    <li>colorama</li> 
+<h3>Colorama</h3>
     ```
     pip3 install colorama
     ```
-    <li>BeautifulTable</li> 
-    ```
-    pip3 install beautifultable
-    ```
-</ul>
+<h3>BeautifulTable</h3>
+```
+pip3 install beautifultable
+``` 
