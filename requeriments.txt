@@ -1,0 +1,5 @@
+ArgumentParser
+colorama
+requests
+BeautifulTable
+warnings
