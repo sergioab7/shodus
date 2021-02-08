@@ -12,6 +12,18 @@
 Script para la automatización de búsquedas en shodan. Uso fácil e intuitivo.
 
 
+## :bangbang: Importante
+¡Debes registrarte en la página de shodan.io y agregar la API al principio de usar el script!
+
+<p align="center">
+<img src="https://gyazo.com/bcd0dd65efd2d703795b07c9613cbc53.png"
+    alt="HackWeb"
+    width="800"
+    height="100"
+    style="float: left; margin-right:10px;" />
+</p>
+
+Una vez agregada, vuelves a iniciar el script y ya estará en funcionamiento.
 
 ## :hammer: Requisitos de instalación 
 
